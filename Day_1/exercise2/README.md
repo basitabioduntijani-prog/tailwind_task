@@ -1,6 +1,6 @@
 
-<img width="1843" height="966" alt="Screenshot 2025-11-15 at 21-54-37 exercise4" src="https://github.com/user-attachments/assets/7defd19b-71c1-4f23-b91b-693f6e27356d" />
 
+<img width="1843" height="880" alt="Screenshot 2025-11-14 at 11-39-55 exercise2" src="https://github.com/user-attachments/assets/639881fc-fd8e-4670-ba6a-3dec3b6d128b" />
 
 Task 2: Button Component Library**
 

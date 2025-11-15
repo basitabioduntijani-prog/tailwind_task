@@ -1,16 +1,25 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ 
+ <img width="1843" height="1236" alt="Screenshot 2025-11-15 at 23-09-44 exercise1" src="https://github.com/user-attachments/assets/b4ec4fb2-62e1-4891-98f3-bf6ccc562b76" />
 
-Currently, two official plugins are available:
+ 
+ Task 1: Responsive Product Card Grid**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Create a product grid that:
+- Shows 1 column on mobile
+- Shows 2 columns on tablet
+- Shows 3 columns on desktop
+- Shows 4 columns on large desktop
+- Each card has image, title, price, and button
+- Use gap spacing
+- Cards have hover effect (tomorrow's lesson)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Products to display:**
+- Jollof Rice - ₦1,500
+- Ankara Fabric - ₦5,000
+- Suya - ₦1,000
+- Aso-Ebi - ₦15,000
+- Palm Wine - ₦1,200
+- Agbada - ₦25,000
+- Chin Chin - ₦500
+- Puff Puff - ₦300

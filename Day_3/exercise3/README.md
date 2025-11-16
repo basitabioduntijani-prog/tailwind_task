@@ -1,16 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ <img width="1843" height="880" alt="Screenshot 2025-11-16 at 19-16-39 exercise3" src="https://github.com/user-attachments/assets/cf7a2a29-60f3-4fb2-a778-c28108a950fa" />
 
-Currently, two official plugins are available:
+ 
+ Task 3: Stats Dashboard**
+**Goal:** Build data display cards
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Requirements:**
+- 4 cards showing: Sales, Orders, Customers, Revenue
+- Each card has icon, number, and percentage change
+- Different colors for each card
+- Hover effects that lift the cards
+- Responsive grid (1-2-4 columns)
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Example:**
+```
+Total Sales: ₦2.5M (+12% ↑)
+Orders: 1,234 (+8% ↑)
+Customers: 567 (+23% ↑)
+Revenue: ₦4.2M (+15% ↑)
